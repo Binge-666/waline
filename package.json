@@ -1,0 +1,7 @@
+{
+  "name": "waline",
+  "private": true,
+  "dependencies": {
+    "@waline/vercel": "^3"
+  }
+}
