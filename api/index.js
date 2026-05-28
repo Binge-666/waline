@@ -1,1 +1,2 @@
-module.exports = require('@waline/vercel');
+const { createServer } = require('@waline/vercel');
+module.exports = createServer();
